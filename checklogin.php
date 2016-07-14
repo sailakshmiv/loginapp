@@ -1,6 +1,6 @@
 <?
 $username="root";
-$password="signature";
+$password="trov";
 $database="contacts";
 
 $username1=$_POST['username1'];
