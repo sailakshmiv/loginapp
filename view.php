@@ -1,6 +1,6 @@
 <?
 $username="root";
-$password="signature";
+$password="trov";
 $database="contacts";
 
 mysql_connect(localhost,$username,$password);
